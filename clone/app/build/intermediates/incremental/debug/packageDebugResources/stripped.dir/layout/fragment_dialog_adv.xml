@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/_200sdp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+
+    android:padding="@dimen/_10sdp"
+    android:background="@drawable/bgcard"
+
+    tools:context=".dialog.DialogSuggestFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/header"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:background="@drawable/headerbg"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintEnd_toEndOf="@id/no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:text="BONUS"
+            style="@style/grouptext"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+        <androidx.constraintlayout.utils.widget.ImageFilterButton
+            android:id="@+id/no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:contentDescription="No"
+            android:src="@drawable/headerclose"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="TouchTargetSizeCheck" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:id="@+id/ruby"
+        android:layout_marginTop="@dimen/_5sdp"
+        app:layout_constraintTop_toBottomOf="@id/header"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+
+            android:layout_gravity="center"
+            android:fontFamily="@font/digitalt"
+            android:textStyle="bold"
+            android:text="+25?" />
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ruby"/>
+    </LinearLayout>
+    <TextView
+        android:text="Xem Quảng Cáo Để Được 25 Ruby?"
+        android:layout_width="wrap_content"
+        android:id="@+id/superitem"
+        android:layout_marginTop="@dimen/_5sdp"
+        app:layout_constraintLeft_toLeftOf="@id/ruby"
+        app:layout_constraintRight_toRightOf="@id/ruby"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/ruby"
+        android:src="@drawable/superitem"/>
+
+
+
+    <ImageButton
+        android:contentDescription="yes"
+        app:layout_constraintTop_toBottomOf="@id/superitem"
+        android:id="@+id/yes"
+        android:src="@drawable/yes"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:background="@null"
+        app:layout_constraintLeft_toLeftOf="@id/ruby"
+        app:layout_constraintRight_toRightOf="@id/ruby"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+      />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

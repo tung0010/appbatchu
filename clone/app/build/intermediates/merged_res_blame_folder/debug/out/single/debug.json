@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_kyluc.xml.flat",
+        "source": "com.example.bai.app-main-37:/drawable/kyluc.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable-xhdpi_light.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable-xhdpi/light.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable-xhdpi_btnplay.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable-xhdpi/btnplay.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_coinimg.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_coinimg.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/raw_adver.mp4.flat",
+        "source": "com.example.bai.app-main-37:/raw/adver.mp4"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.bai.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/layout_icontext.xml.flat",
+        "source": "com.example.bai.app-main-37:/layout/icontext.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_imgribbon.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/imgribbon.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/layout_fragment_dialog_adv.xml.flat",
+        "source": "com.example.bai.app-main-37:/layout/fragment_dialog_adv.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_starbig.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_starbig.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/font_digitalt.ttf.flat",
+        "source": "com.example.bai.app-main-37:/font/digitalt.ttf"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable-xhdpi_yes.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable-xhdpi/yes.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_ribbon_pink_a701.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_ribbon_pink_a701.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_headerbg.xml.flat",
+        "source": "com.example.bai.app-main-37:/drawable/headerbg.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_logo.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_logo.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_superitem.xml.flat",
+        "source": "com.example.bai.app-main-37:/drawable/superitem.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/layout_startscreen.xml.flat",
+        "source": "com.example.bai.app-main-37:/layout/startscreen.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/layout_dialogfail.xml.flat",
+        "source": "com.example.bai.app-main-37:/layout/dialogfail.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_baphai.gif.flat",
+        "source": "com.example.bai.app-main-37:/drawable/baphai.gif"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable-xhdpi_level.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable-xhdpi/level.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_textcomplete.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/textcomplete.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_union_white_a700_35x34.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_union_white_a700_35x34.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_vector9.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_vector9.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable-xhdpi_background.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_ruby.xml.flat",
+        "source": "com.example.bai.app-main-37:/drawable/ruby.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/anim_shakeanimation.xml.flat",
+        "source": "com.example.bai.app-main-37:/anim/shakeanimation.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_wingame.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/wingame.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_union_white_a700.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_union_white_a700.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_star1_1.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_star1_1.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/font_vnfcomicsan.ttf.flat",
+        "source": "com.example.bai.app-main-37:/font/vnfcomicsan.ttf"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_headerclose.xml.flat",
+        "source": "com.example.bai.app-main-37:/drawable/headerclose.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/layout_fragment_dialog_suggest.xml.flat",
+        "source": "com.example.bai.app-main-37:/layout/fragment_dialog_suggest.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/layout_dialogcomplete.xml.flat",
+        "source": "com.example.bai.app-main-37:/layout/dialogcomplete.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable-xhdpi_back.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable-xhdpi_bgkey.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable-xhdpi/bgkey.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_bodertextview.xml.flat",
+        "source": "com.example.bai.app-main-37:/drawable/bodertextview.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_title_bg.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/title_bg.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.bai.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable-xhdpi_bgcard.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable-xhdpi/bgcard.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_folder.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_folder.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.bai.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/raw_baphai.mp3.flat",
+        "source": "com.example.bai.app-main-37:/raw/baphai.mp3"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/layout_wingame.xml.flat",
+        "source": "com.example.bai.app-main-37:/layout/wingame.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_chanhcom.gif.flat",
+        "source": "com.example.bai.app-main-37:/drawable/chanhcom.gif"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.bai.app-main-37:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/raw_chanhcom.mp3.flat",
+        "source": "com.example.bai.app-main-37:/raw/chanhcom.mp3"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/layout_playscreen.xml.flat",
+        "source": "com.example.bai.app-main-37:/layout/playscreen.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_baixich.gif.flat",
+        "source": "com.example.bai.app-main-37:/drawable/baixich.gif"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_khaucung.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/khaucung.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bai.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/drawable_img_group44.png.flat",
+        "source": "com.example.bai.app-main-37:/drawable/img_group44.png"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/layout_activity_advertisement.xml.flat",
+        "source": "com.example.bai.app-main-37:/layout/activity_advertisement.xml"
+    },
+    {
+        "merged": "com.example.bai.app-merged_res-35:/raw_baixich.mp3.flat",
+        "source": "com.example.bai.app-main-37:/raw/baixich.mp3"
+    }
+]

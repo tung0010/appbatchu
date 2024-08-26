@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.bai.app-mergeDebugResources-34:/layout/fragment_dialog_adv.xml",
+        "source": "com.example.bai.app-main-37:/layout/fragment_dialog_adv.xml"
+    },
+    {
+        "merged": "com.example.bai.app-mergeDebugResources-34:/layout/dialogfail.xml",
+        "source": "com.example.bai.app-main-37:/layout/dialogfail.xml"
+    },
+    {
+        "merged": "com.example.bai.app-mergeDebugResources-34:/layout/icontext.xml",
+        "source": "com.example.bai.app-main-37:/layout/icontext.xml"
+    },
+    {
+        "merged": "com.example.bai.app-mergeDebugResources-34:/layout/activity_advertisement.xml",
+        "source": "com.example.bai.app-main-37:/layout/activity_advertisement.xml"
+    },
+    {
+        "merged": "com.example.bai.app-mergeDebugResources-34:/layout/fragment_dialog_suggest.xml",
+        "source": "com.example.bai.app-main-37:/layout/fragment_dialog_suggest.xml"
+    },
+    {
+        "merged": "com.example.bai.app-mergeDebugResources-34:/layout/wingame.xml",
+        "source": "com.example.bai.app-main-37:/layout/wingame.xml"
+    },
+    {
+        "merged": "com.example.bai.app-mergeDebugResources-34:/layout/startscreen.xml",
+        "source": "com.example.bai.app-main-37:/layout/startscreen.xml"
+    },
+    {
+        "merged": "com.example.bai.app-mergeDebugResources-34:/layout/playscreen.xml",
+        "source": "com.example.bai.app-main-37:/layout/playscreen.xml"
+    },
+    {
+        "merged": "com.example.bai.app-mergeDebugResources-34:/layout/dialogcomplete.xml",
+        "source": "com.example.bai.app-main-37:/layout/dialogcomplete.xml"
+    }
+]
